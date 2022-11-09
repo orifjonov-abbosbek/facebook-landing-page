@@ -1,0 +1,97 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+.container {
+  display: flex;
+  height: 100vh;
+  align-items: center;
+  background-color: #f0f2f5;
+  margin: 0 auto;
+}
+
+.logo-im {
+  margin-left: 138px;
+}
+
+.description {
+  font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+  width: 440px;
+  font-size: 24px;
+  margin-left: 165px;
+  margin-right: 100px;
+}
+
+.main-article {
+  margin-top: -123px;
+}
+
+.input {
+  font-family: Arial, Helvetica, sans-serif;
+  width: 364px;
+  height: 52px;
+  background: #ffffff;
+  border: 1px solid #dddfe2;
+  border-radius: 5px;
+  margin-bottom: 20px;
+  padding-left: 32px;
+}
+form {
+  width: 396px;
+  background-color: #fff;
+  padding: 10px 5px 5px 17px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  border-radius: 15px;
+}
+.submit-btn {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 24px;
+  color: #fff;
+  background-color: #1877f2;
+  border: none;
+  width: 364px;
+  height: 48px;
+  margin-bottom: 15px;
+  border-radius: 6px;
+}
+
+.link {
+  text-decoration: none;
+  color: #2780f2;
+  margin-left: 111px;
+}
+.line {
+  border-bottom: 1px solid #dadde1;
+  margin-top: 15px;
+}
+
+.create-account-btn {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12px;
+  color: #fff;
+  background-color: #42b72a;
+  border: none;
+  width: 160.533px;
+  height: 48px;
+  border-radius: 6px;
+  margin-left: 100px;
+  margin-top: 16px;
+  margin-bottom: 15px;
+}
+
+.create-page {
+  font-family: SFProText-Semibold, Helvetica, Arial, sans-serif;
+  text-decoration: none;
+  color: #000000;
+  font-size: 14px;
+  font-weight: 600;
+}
+.last-paragraph {
+  font-family: SFProText-Semibold, Helvetica, Arial, sans-serif;
+  margin-top: 15px;
+  margin-left: 60px;
+  font-size: 12px;
+  font-weight: normal;
+  color: #7f8084;
+}
